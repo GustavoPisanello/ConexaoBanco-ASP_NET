@@ -1,0 +1,2 @@
+C:\Users\2ds\Desktop\3ds\Laur-Cipriano\ConexaoBanco-ASP_NET\BBanco\obj\Debug\BBanco.csproj.AssemblyReference.cache
+C:\Users\2ds\Desktop\3ds\Laur-Cipriano\ConexaoBanco-ASP_NET\BBanco\obj\Debug\BBanco.csproj.CoreCompileInputs.cache
